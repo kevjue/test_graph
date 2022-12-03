@@ -1,0 +1,12 @@
+{
+    "name": "test_graph",
+    "packageManager": "yarn@3.3.0",
+    "type": "module",
+    "scripts": {
+        "graph": "graph"
+    },
+    "dependencies": {
+        "@graphprotocol/graph-cli": "0.37.0",
+        "@graphprotocol/graph-ts": "0.28.1"
+    }
+}
